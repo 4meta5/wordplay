@@ -1,0 +1,1 @@
+//! Anagram checks and generation
