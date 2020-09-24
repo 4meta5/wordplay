@@ -1,3 +1,5 @@
-mod pal;
-use pal::{gen_pals, has_pal, is_pal};
+#[macro_use]
+extern crate lazy_static;
+
 mod ana;
+mod check;

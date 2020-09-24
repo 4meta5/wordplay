@@ -6,3 +6,4 @@ edition = "2018"
 description = "string algorithms"
 
 [dependencies]
+lazy_static = "1.4.0"
