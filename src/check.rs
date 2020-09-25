@@ -2,7 +2,7 @@
 use std::collections::HashMap;
 
 lazy_static! {
-    static ref PRIMES: HashMap<char, u64> = {
+    pub static ref PRIMES: HashMap<char, u64> = {
         let mut m = HashMap::new();
         m.insert('a', 2);
         m.insert('b', 3);
