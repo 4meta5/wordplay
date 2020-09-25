@@ -1,9 +1,9 @@
 [package]
-name = "bananagram"
+name = "wordplay"
 version = "0.1.0"
 authors = ["4meta5 <asinghchrony@protonmail.com>"]
 edition = "2018"
-description = "string algorithms"
+description = "anagram and palindrome exercises"
 
 [dependencies]
 lazy_static = "1.4.0"
